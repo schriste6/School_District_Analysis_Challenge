@@ -4,6 +4,7 @@ The School Board requested a secondary School District Analysis based on evidenc
 ## Results  
 - How is the district summary affected?
 
+![](/Resources/SD_Summary_Includes_THS_9th_math_reading.png)      ![](/Resources/SD_Summary_Excludes_THS_9th_math_reading.png)   
 - How is the school summary affected?
 
 - How does replacing the ninth graders' math and reading scores affect Thomas High School's performance relative to the other schools?

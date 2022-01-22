@@ -4,9 +4,9 @@ The School Board requested a secondary School District Analysis based on evidenc
 ## Results  
 - How is the district summary affected?
   - School District percentages to pass math, reading, and overall are impacted by Thomas High School ninth graders scores.  
-School District Summary *with* altered Thomas High School grades:
+School District Summary ***with*** altered Thomas High School grades:
 ![](/Resources/SD_Summary_Includes_THS_9th_math_reading.png)      
-School District Summary *without* altered Thomas High School grades:
+School District Summary ***without*** altered Thomas High School grades:
 ![](/Resources/SD_Summary_Excludes_THS_9th_math_reading.png)   
 - How is the school summary affected?
 

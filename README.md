@@ -17,15 +17,12 @@ The School Board requested an updated School District Analysis based on evidence
 - How does replacing the ninth graders' math and reading scores affect Thomas High School's performance relative to the other schools?
   - Excluding Thomas High School ninth grade scores has no impact on other schools in the district.  See School Summary details in the snippets above.    
 - How does replacing the ninth-grade scores affect the following:
-  - Math and reading scores by grade
-    - Minimal impact to Thomas High School
+  - Only impact was Thomas High School's ninth grade data
 ![](/Resources/Altered_by_Grade.png)**  ![](/Resources/Updated_by_Grade.png)
-
   - Scores by school spending
-    - No impact on school spending
+    - No noticable impact
   - Scores by school size
-    - No impact on school spending
+    - No noticable impact
   - scores by school type
-    - Charter type was impacted with variance in average as follows:  Updated math avg went down by 0.008427, and updated reading avg went up by 0.00589
-
+    - No noticable impact
 ## Summary (summarize four changes in the updated school district analysis after reading and math scores for ninth grade at Thomas High School have been replaced with NaNs)

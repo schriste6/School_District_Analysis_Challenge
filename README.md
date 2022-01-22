@@ -18,7 +18,8 @@ The School Board requested an updated School District Analysis based on evidence
   - Excluding Thomas High School ninth grade scores has no impact on other schools in the district.  See School Summary details in the snippets above.    
 - How does replacing the ninth-grade scores affect the following:
   - Math and reading scores by grade
-    - Only impact was to Thomas High School, with their ninth grade math and reading scores removed 
+    - Minimal impact to Thomas High School
+![](/Resources/Altered_by_Grade.png)**  ![](/Resources/Updated_by_Grade.png)
 
   - Scores by school spending
     - No impact on school spending

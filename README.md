@@ -1,12 +1,12 @@
 # School District Analysis  
 ## Overview of the School District Analysis  
-The School Board requested a secondary School District Analysis based on evidence of academic dishonesty; specifically, reading and math grades for Thomas High School ninth graders appear to have been altered.  With upholding state-testing standards the altered data have been removed from the analysis.   
+The School Board requested an updated School District Analysis based on evidence of academic dishonesty; specifically, reading and math grades for Thomas High School ninth graders appear to have been altered.  With upholding state-testing standards the altered data have been removed from the analysis.   
 ## Results  
 - How is the district summary affected?
   - School District ***percentages to pass math, reading, and overall*** are impacted by Thomas High School ninth graders scores.  
-    - Below is the School District Summary before altered Thomas High School grades were removed:
+    - Below is the School District Summary ***before*** altered Thomas High School grades were removed:
 ![](/Resources/SD_Summary_Includes_THS_9th_math_reading.png)      
-    - Below is the School District Summary after altered Thomas High School grades were removed:
+    - Below is the School District Summary ***after*** altered Thomas High School grades were removed:
 ![](/Resources/SD_Summary_Excludes_THS_9th_math_reading.png)   
 - How is the school summary affected?
 

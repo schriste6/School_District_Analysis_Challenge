@@ -1,6 +1,6 @@
 # School District Analysis  
 ## Overview of the School District Analysis  
-The School Board requested an updated School District Analysis based on evidence of academic dishonesty; specifically, reading and math grades for Thomas High School ninth graders appear to have been altered.  With upholding state-testing standards the altered data have been removed from the analysis.   
+The School Board requested an updated School District Analysis based on evidence of academic dishonesty; specifically, reading and math grades for Thomas High School ninth graders appear to have been altered.  With upholding state-testing standards the altered data have been removed.
 ## Results  
 - How is the district summary affected?  
   - The District Summary delivers Total Schools, Total Students, and Total Budget Average based on all student data.  
@@ -16,15 +16,16 @@ The School Board requested an updated School District Analysis based on evidence
 - How does replacing the ninth graders' math and reading scores affect Thomas High School's performance relative to the other schools?
   - Most importantly, removing altered data upholds state testing standards to maintain data integrity.  
   - Thomas High School is in the top five performing performing schools.  See School Summary details in the snippets above.    
+![](/Resources/Top_5_Updated_Data.png)
 - How does replacing the ninth-grade scores affect the following:
   - Only impact was Thomas High School's ninth grade data
 ![](/Resources/Altered_by_Grade.png)  ![](/Resources/Updated_by_Grade.png)  
   - Scores by school spending
-    - No noticable impact
+    - No impact.
   - Scores by school size
-    - No noticable impact
+    - No impact.
   - scores by school type
-    - No noticable impact
+    - No impact.
 ## Summary of updated data to remove altered Thomas High School ninth grader math and reading scores:
 1. Thomas High School Math and Reading scores were removed, leaving all other student data intact for remaining calculations.
 2. Thomas High School % Math Passing went from (altered) 93.27% to (updated) 93.19%

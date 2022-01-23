@@ -17,7 +17,7 @@ The School Board requested an updated School District Analysis based on evidence
 ![](/Resources/Top_5_Updated_Data.png)
 - How does replacing the ninth-grade scores affect the following:
   - Only impact was Thomas High School's ninth grade data
-![](/Resources/Altered_by_Grade.png)  ![](/Resources/Updated_by_Grade.png)  
+![](/Resources/Updated_by_Grade.png)  
   - Scores by school spending
     - No impact.
   - Scores by school size

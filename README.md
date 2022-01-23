@@ -25,4 +25,8 @@ The School Board requested an updated School District Analysis based on evidence
     - No noticable impact
   - scores by school type
     - No noticable impact
-## Summary (summarize four changes in the updated school district analysis after reading and math scores for ninth grade at Thomas High School have been replaced with NaNs)
+## Summary of updated data to remove altered Thomas High School ninth grader math and reading scores:
+1. Thomas High School % Math Passing went from (altered) % to (updated) %
+2. Thomas High School % Reading Passing went from (altered) % to (Updated) %
+3. Thomas High School % Overall Passing went from (altered) % to (Updated) %
+4. District High School % Math Passing, % Reading Passing, and % Overall Passing 

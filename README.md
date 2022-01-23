@@ -27,7 +27,8 @@ The School Board requested an updated School District Analysis based on evidence
     - No noticable impact
 ## Summary of updated data to remove altered Thomas High School ninth grader math and reading scores:
 1. Thomas High School Math and Reading scores were removed, leaving all other student data intact for remaining calculations.
-2. Thomas High School % Math Passing went from (altered) % to (updated) %
-3. Thomas High School % Reading Passing went from (altered) % to (Updated) %
-4. Thomas High School % Overall Passing went from (altered) % to (Updated) %
-5. 
+2. Thomas High School % Math Passing went from (altered) 93.27% to (updated) 93.19%
+3. Thomas High School % Reading Passing went from (altered) 97.31% to (Updated) 97.02%
+4. Thomas High School % Overall Passing went from (altered) 90.95% to (Updated) 90.63%
+
+
